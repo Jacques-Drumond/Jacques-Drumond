@@ -1,4 +1,4 @@
-### Hello! My name is Jacques Junio 👋
+### Hello! My name is Jacques 👋
 <br/> 
 
 ![Jacques's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacques-Drumond&theme=dracula&show_icons=true)
@@ -9,7 +9,6 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <div/><br/>
 
-In love with technology, ambitious and with big plans for the future 👨‍💻🚀
 
 ## Contact me: 
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
