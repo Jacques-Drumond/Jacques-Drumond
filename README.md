@@ -17,4 +17,4 @@
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 )](mailto:jacques.junio@hotmail.com)
 
-![Snake animation](https://github.com/Jacques-Drumond/Jacques-Drumond/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
